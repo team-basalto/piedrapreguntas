@@ -1,0 +1,110 @@
+[
+    {
+        "question_image": null,
+        "question_text": "¿Qué es un geoparque de la UNESCO?",
+        "correct_aswer": "a",
+        "option_a": "Son áreas geográficas únicas y unificadas en las que se gestionan sitios y paisajes de importancia geológica internacional, a través de un concepto holístico de protección, educación y desarrollo sostenible.",
+        "option_b": "Son parques donde solo se protege la biodiversidad, sin considerar el aspecto geológico.",
+        "option_c": "Zonas donde se prohíbe cualquier tipo de actividad humana para preservar el entorno.",
+        "option_d": "Áreas exclusivamente destinadas a la investigación científica geológica."
+    },
+    {
+        "question_image": null,
+        "question_text": "¿Cuántos Geoparques Mundiales de la Unesco existen?",
+        "correct_aswer": "a",
+        "option_a": "213.",
+        "option_b": "150.",
+        "option_c": "300.",
+        "option_d": "100."
+    },
+    {
+        "question_image": null,
+        "question_text": "¿En qué consiste el “enfoque ascendente” que se utiliza para la creación de los geoparques?",
+        "correct_aswer": "a",
+        "option_a": "Consiste en una relación de ayuda mutua entre el parque y la unión de comunidades locales, autoridades locales e instituciones públicas. Mediante la cual se genera un acuerdo para que esta unión cuide el parque. Y a su vez se vea beneficiada por el geoturismo que gira alrededor del parque.",
+        "option_b": "Es un método donde el gobierno decide unilateralmente las políticas del parque.",
+        "option_c": "Implica solo la participación de científicos para el diseño y manejo del parque.",
+        "option_d": "Se centra en la explotación económica del parque para financiar su mantenimiento."
+    },
+    {
+        "question_image": null,
+        "question_text": "¿Cuáles son las calificaciones de calidad que pueden dar los evaluadores de los geoparques?",
+        "correct_aswer": "a",
+        "option_a": "Tarjeta verde, tarjeta amarilla, tarjeta roja.",
+        "option_b": "Alta, media, baja.",
+        "option_c": "Oro, plata, bronce.",
+        "option_d": "Aprobado, pendiente, rechazado."
+    },
+    {
+        "question_image": null,
+        "question_text": "¿Cuáles son las consecuencias de obtener una calificación de tarjeta verde en el estudio del terreno del geoparque?",
+        "correct_aswer": "a",
+        "option_a": "Con los criterios requeridos, la designación será prolongada por un periodo adicional de cuatro años.",
+        "option_b": "Se le dará al geoparque un reconocimiento internacional especial.",
+        "option_c": "El geoparque entrará en un periodo de evaluación especial.",
+        "option_d": "No se requiere realizar ninguna acción en los siguientes años."
+    },
+    {
+        "question_image": null,
+        "question_text": "¿Cuáles son las consecuencias de obtener una calificación de tarjeta amarilla en el estudio del terreno del geoparque?",
+        "correct_aswer": "a",
+        "option_a": "Se informará al organismo de gestión para que adopte las medidas pertinentes en un plazo de dos años.",
+        "option_b": "El geoparque será eliminado de la lista de la UNESCO.",
+        "option_c": "El geoparque deberá reducir sus actividades de geoturismo.",
+        "option_d": "Se limitarán las visitas al geoparque temporalmente."
+    },
+    {
+        "question_image": null,
+        "question_text": "¿Cuáles son las consecuencias de obtener una calificación de tarjeta roja en el estudio del terreno del geoparque?",
+        "correct_aswer": "a",
+        "option_a": "La zona perderá su condición de Geoparque Mundial de la UNESCO.",
+        "option_b": "El geoparque entrará en un periodo de evaluación intensiva.",
+        "option_c": "Se reducirán las actividades de geoturismo del geoparque.",
+        "option_d": "El geoparque recibirá un ultimátum de la UNESCO."
+    },
+    {
+        "question_image": null,
+        "question_text": "¿Cuáles son las cuatro características principales de los geoparques según la UNESCO?",
+        "correct_aswer": "a",
+        "option_a": "Patrimonio geológico de valor internacional, gestión, visibilidad, trabajo en red.",
+        "option_b": "Educación ambiental, biodiversidad, geoturismo, sostenibilidad.",
+        "option_c": "Conservación, desarrollo local, biodiversidad, geología.",
+        "option_d": "Reducción de impacto humano, preservación, educación científica, ecoturismo."
+    },
+    {
+        "question_image": null,
+        "question_text": "¿Quién le otorga a un geoparque la característica de ser “patrimonio geológico de valor internacional”?",
+        "correct_aswer": "a",
+        "option_a": "Un grupo de científicos profesionales, miembros del “equipo de evaluación de los Geoparques Mundiales de la UNESCO”.",
+        "option_b": "El gobierno del país donde se encuentra el geoparque.",
+        "option_c": "Los visitantes del geoparque mediante encuestas de calidad.",
+        "option_d": "Organizaciones no gubernamentales locales."
+    },
+    {
+        "question_image": null,
+        "question_text": "¿En qué consiste la característica de “Visibilidad” que debe tener un parque de la UNESCO?",
+        "correct_aswer": "a",
+        "option_a": "Se debe promover el geoturismo del parque por diferentes canales (sitio web específico, folletos y mapas detallados).",
+        "option_b": "Se refiere únicamente a la infraestructura visible dentro del geoparque.",
+        "option_c": "Es el diseño paisajístico del geoparque.",
+        "option_d": "Implica la construcción de señales visibles dentro del parque."
+    },
+    {
+        "question_image": null,
+        "question_text": "¿Cuál es el significado de las siglas GGN?",
+        "correct_aswer": "a",
+        "option_a": "Red Global de Geoparques.",
+        "option_b": "Geología y Geoturismo Natural.",
+        "option_c": "Grupo Global de Naturalistas.",
+        "option_d": "Gestión General de Geoparques."
+    },
+    {
+        "question_image": null,
+        "question_text": "¿Cuánto tiempo tiene validez la certificación de un geoparque?",
+        "correct_aswer": "a",
+        "option_a": "4 Años.",
+        "option_b": "10 Años.",
+        "option_c": "2 Años.",
+        "option_d": "5 Años."
+    }
+]

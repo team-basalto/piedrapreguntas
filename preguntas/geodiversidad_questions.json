@@ -1,0 +1,38 @@
+[
+    {
+        "question_image": "",
+        "question_text": "¿Cuándo es el Día Internacional de la Geodiversidad según la UNESCO?",
+        "correct_aswer": "a",
+        "option_a": "6 de octubre.",
+        "option_b": "6 de noviembre.",
+        "option_c": "6 de febrero.",
+        "option_d": "6 de agosto."
+    },
+    {
+        "question_image": null,
+        "question_text": "¿Qué es la geodiversidad?",
+        "correct_aswer": "b",
+        "option_a": "La geodiversidad se refiere a la parte de la naturaleza que está viva, tanto en la superficie como en el interior del planeta.",
+        "option_b": "La geodiversidad se refiere a la parte de la naturaleza que no está viva, tanto en la superficie como en el interior del planeta.",
+        "option_c": "La geodiversidad se refiere exclusivamente a la parte de la naturaleza que no está viva. Pero que en el pasado lo estuvo.",
+        "option_d": "Ninguna de las anteriores."
+    },
+    {
+        "question_image": null,
+        "question_text": "¿Cuál es el significado de las siglas UICN?",
+        "correct_aswer": "a",
+        "option_a": "Unión Internacional para la Conservación Natural.",
+        "option_b": "Unión Internacional de la Comunidad Natural.",
+        "option_c": "Unión Internacional de Conservación de la Naturaleza.",
+        "option_d": "Unión Internacional de Cuidado Natural."
+    },
+    {
+        "question_image": null,
+        "question_text": "¿Qué elementos hacen parte de la geodiversidad?",
+        "correct_aswer": "d",
+        "option_a": "Elementos atmosféricos como el viento y la lluvia.",
+        "option_b": "Organismos vivos y ecosistemas naturales.",
+        "option_c": "Únicamente los minerales y los suelos presentes en la Tierra.",
+        "option_d": "Minerales, fósiles, suelos, sedimentos, montañas, la topografía y las características hidrológicas de la Tierra, como ríos y lagos."
+    }
+]
