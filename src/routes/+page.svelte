@@ -201,7 +201,7 @@
         position: relative;
         overflow: hidden;
         transition: transform 4s ease-out; /* Duración del giro */
-        background-color: #00ffa2;
+        background-color: #62b3d3;
     }
 
     .segmento {

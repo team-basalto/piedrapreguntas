@@ -11,9 +11,9 @@
     {
         "question_image": null,
         "question_text": "¿Cuántos Geoparques Mundiales de la Unesco existen?",
-        "correct_answer": "a",
-        "option_a": "213.",
-        "option_b": "150.",
+        "correct_answer": "b",
+        "option_a": "150.",
+        "option_b": "213.",
         "option_c": "300.",
         "option_d": "100."
     },
@@ -29,11 +29,11 @@
     {
         "question_image": null,
         "question_text": "¿Cuáles son las calificaciones de calidad que pueden dar los evaluadores de los geoparques?",
-        "correct_answer": "a",
-        "option_a": "Tarjeta verde, tarjeta amarilla, tarjeta roja.",
-        "option_b": "Alta, media, baja.",
-        "option_c": "Oro, plata, bronce.",
-        "option_d": "Aprobado, pendiente, rechazado."
+        "correct_answer": "c",
+        "option_a": "Oro, Plata, Bronce",
+        "option_b": "Alta, Media, Baja.",
+        "option_c": "Tarjeta verde, tarjeta amarilla, tarjeta roja.",
+        "option_d": "Aprobado, Pendiente, Rechazado."
     },
     {
         "question_image": null,
@@ -83,10 +83,10 @@
     {
         "question_image": null,
         "question_text": "¿En qué consiste la característica de “Visibilidad” que debe tener un parque de la UNESCO?",
-        "correct_answer": "a",
-        "option_a": "Se debe promover el geoturismo del parque por diferentes canales (sitio web específico, folletos y mapas detallados).",
+        "correct_answer": "c",
+        "option_a": "Es el diseño paisajístico del geoparque.",
         "option_b": "Se refiere únicamente a la infraestructura visible dentro del geoparque.",
-        "option_c": "Es el diseño paisajístico del geoparque.",
+        "option_c": "Se debe promover el geoturismo del parque por diferentes canales (sitio web específico, folletos y mapas detallados).",
         "option_d": "Implica la construcción de señales visibles dentro del parque."
     },
     {
@@ -101,10 +101,10 @@
     {
         "question_image": null,
         "question_text": "¿Cuánto tiempo tiene validez la certificación de un geoparque?",
-        "correct_answer": "a",
-        "option_a": "4 Años.",
+        "correct_answer": "c",
+        "option_a": "2 Años.",
         "option_b": "10 Años.",
-        "option_c": "2 Años.",
+        "option_c": "4 Años.",
         "option_d": "5 Años."
     }
 ]

@@ -45,7 +45,7 @@
         "option_d": "Villa de Leyva, Boyacá."
     },
     {
-        "question_image": "/images/cavernaPeñon.jpg",
+        "question_image": "/images/cavernaPeñon.jpeg",
         "question_text": "¿En qué lugar de Colombia quedan ubicadas las cavernas de El Peñón?",
         "correct_answer": "a",
         "option_a": "El Peñón, Santander.",
@@ -92,9 +92,9 @@
     {
         "question_image": "/images/desiertoTatacoa.jpg",
         "question_text": "¿Cuál es el nombre de este lugar?",
-        "correct_answer": "a",
-        "option_a": "Desierto de la Tatacoa.",
-        "option_b": "Desierto de Neiva.",
+        "correct_answer": "b",
+        "option_a": "Desierto de Neiva.",
+        "option_b": "Desierto de la Tatacoa.",
         "option_c": "Desierto del Magdalena.",
         "option_d": "Desierto de Villavieja."
     },
@@ -108,7 +108,7 @@
         "option_d": "Kronosaurus Colombiensis."
     },
     {
-        "question_image": "/images/cavernaPeñon.jpg",
+        "question_image": "/images/cavernaPeñon.jpeg",
         "question_text": "¿Cuál es el nombre de este lugar?",
         "correct_answer": "a",
         "option_a": "Las Cavernas del Peñón.",
@@ -128,11 +128,11 @@
     {
         "question_image": "/images/piedraPeñol.jpg",
         "question_text": "¿Cuál es el nombre de este lugar?",
-        "correct_answer": "a",
-        "option_a": "Piedra del Peñol.",
+        "correct_answer": "d",
+        "option_a": "La Peñola.",
         "option_b": "Piedra de Antioquia.",
         "option_c": "Roca de Guatapé.",
-        "option_d": "La Peñola."
+        "option_d": "Piedra del Peñol."
     },
     {
         "question_image": "/images/volcanPurace.jpg",
