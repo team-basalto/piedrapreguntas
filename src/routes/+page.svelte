@@ -1,5 +1,5 @@
 <script>
-    let themes = ['Geodiversidad', 'Geoparques', 'Patrimonio Geológico'];
+    let themes = ['Geodiversidad', 'Geoparques', 'Geopatrimonio'];
     let selectedTheme = null;
     let currentQuestion = null;
     let questions = [];
@@ -39,7 +39,7 @@
             case 'Geoparques':
                 response = await fetch('/preguntas/geoparques_questions.json');
                 break;
-            case 'Patrimonio Geológico':
+            case 'Geopatrimonio':
                 response = await fetch('/preguntas/geopatrimonio_questions.json');
                 break;
             default:
@@ -129,6 +129,33 @@
         // Reiniciar color de fondo
         document.body.style.backgroundColor = '';
     }
+    function restart() {
+        selectedTheme = null;
+        currentQuestion = null;
+        questions = [];
+        spinning = false;
+        started = false; // Reiniciar el estado de inicio
+        answerSelected = false;
+        isCorrect = false;
+        correctAnswer = '';
+        clearInterval(timer); // Limpiar el temporizador
+        timer = false; // Ocultar el temporizador
+
+        // Restaurar el color de fondo
+        document.body.style.backgroundColor = '';
+        
+        // Ocultar el botón de reinicio
+        const restartButton = document.querySelector('.restart-button');
+        restartButton.style.display = 'none';
+        
+        // Reiniciar los botones de respuesta
+        const buttons = document.querySelectorAll('.answer-button');
+        buttons.forEach(button => {
+            button.style.backgroundColor = '#4CAF50'; // Restaurar color por defecto
+            button.style.color = 'white';
+        });
+    }
+
 </script>
 
 <style>
@@ -238,7 +265,7 @@
         background-color: #45a049;
     }
 
-    .restart-button, .back-button {
+    .restart-button {
         background-color: #FF5722;
         color: white;
         font-size: 1.2rem;
@@ -272,10 +299,18 @@
         position: absolute;
         bottom: 20px;
         left: 20px;
+        background-color: #FF5722;
+        color: white;
+        font-size: 1.2rem;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 20px;
+        cursor: pointer;
     }
 </style>
 
 <div class="container">
+    <button class="back-button" on:click={restart}>Volver</button>
     {#if !started}
         <div class="title">GEOQUIZ</div>
         <button class="a-button" style="background-color: #4CAF50; color: white; padding: 15px 30px; border: none; border-radius: 5px; font-size: 1.5rem; cursor: pointer;" on:click={() => { started = true; }}>Comenzar</button>
@@ -285,7 +320,7 @@
         <div class="ruleta" on:click={spinWheel} id="ruleta">
             <div class="segmento" data-value="Geodiversidad">Geodiversidad</div>
             <div class="segmento" data-value="Geoparques">Geoparques</div>
-            <div class="segmento" data-value="Patrimonio Geológico">Patrimonio Geológico</div>
+            <div class="segmento" data-value="Geopatrimonio">Geopatrimonio</div>
             <div class="pointer"></div> <!-- Aguja añadida aquí -->
         </div>
         <p>¡Haz clic para girar la ruleta!</p>
@@ -312,5 +347,4 @@
 
     <div class="timer">Tiempo restante: {timeLeft} segundos</div> <!-- Temporizador añadido aquí -->
     <button class="restart-button" on:click={restartGame}>Reiniciar juego</button>
-    <button class="back-button" on:click={restartGame}>Volver</button>
 </div>
